@@ -162,8 +162,6 @@
 
 - 코딩 타이핑 : http://www.speedcoder.net/lessons/#
 
-- 데이터 : https://www.kaggle.com
-
 - 마크다운(.md) 문법
   - [Mastering Markdown Github Guide](https://guides.github.com/features/mastering-markdown/)
   - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
@@ -172,5 +170,6 @@
 - 컬러링
   - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
   - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-  - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0` 
-
+  - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+  
+- 데이터 : https://www.kaggle.com
