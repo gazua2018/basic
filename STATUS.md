@@ -78,7 +78,7 @@
     - [ ] |윤| [slink]() | [vlink]() |
     - [X] |수| [slink](https://github.com/yangsoochoi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%81.cpp) | [vlink]() |
   * [2xn 타일링2](https://www.acmicpc.net/problem/11727)
-    - [ ] |륜| [slink]() | [vlink]() |
+    - [X] |륜| [slink](https://gist.github.com/brianrobo/6758a3b0c8dff7f02604c1ddaddbc301) | [vlink](https://youtu.be/yBPGBFuWYbA) |
     - [ ] |윤| [slink]() | [vlink]() |
     - [X] |수| [slink](https://github.com/yangsoochoi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%812.cpp) | [vlink]() |
   * [1,2,3더하기](https://www.acmicpc.net/problem/9095)
