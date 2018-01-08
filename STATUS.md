@@ -23,7 +23,7 @@
 
 ## DS1_Stack
   * [스택](https://www.acmicpc.net/problem/10828)
-    - [X] |**륜**| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
+    - [X] |륜| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
     - [ ] |윤| [slink]() | [vlink]() |
     - [ ] |수| [slink]() | [vlink]() |
   * [괄호](https://www.acmicpc.net/problem/9012)
@@ -60,7 +60,7 @@
   * ~~[알파벳 찾기](https://www.acmicpc.net/problem/10809)~~
   * ~~[문자열 분석](https://www.acmicpc.net/problem/10820)~~
   * [단어 길이 재기](https://www.acmicpc.net/problem/2743)
-    - [ ] |륜| [slink](https://gist.github.com/brianrobo/9dc3f7f9db50ab773bdbbad28f0bb05d) | [vlink](https://youtu.be/YrCgKrtiUKE) |
+    - [X] |륜| [slink](https://gist.github.com/brianrobo/9dc3f7f9db50ab773bdbbad28f0bb05d) | [vlink](https://youtu.be/YrCgKrtiUKE) |
     - [ ] |윤| [slink]() | [vlink]() |
     - [ ] |수| [slink]() | [vlink]() |
   * ~~[ROT13](https://www.acmicpc.net/problem/11655)~~
