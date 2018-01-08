@@ -82,7 +82,7 @@
     - [ ] |윤| [slink]() | [vlink]() |
     - [X] |수| [slink](https://github.com/yangsoochoi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%812.cpp) | [vlink]() |
   * [1,2,3더하기](https://www.acmicpc.net/problem/9095)
-    - [ ] |륜| [slink]() | [vlink]() |
+    - [X] |륜| [slink](https://gist.github.com/brianrobo/d4ca256e8c91e9680873b9c13fb444de) | [vlink](https://youtu.be/QVRS2xjPBwI) |
     - [ ] |윤| [slink]() | [vlink]() |
     - [ ] |수| [slink]() | [vlink]() |
   * [붕어빵 판매하기](https://www.acmicpc.net/problem/11052)
