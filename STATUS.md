@@ -18,11 +18,12 @@
  * [Tree1](#tree1)
 
 ## IO
-* (중요한데 생략할께요) 
+* (중요한데 생략할께요)
+
 
 ## DS1_Stack
   * [스택](https://www.acmicpc.net/problem/10828)
-    - [X] |륜| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
+    - [X] |**륜**| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
     - [ ] |윤| [slink]() | [vlink]() |
     - [ ] |수| [slink]() | [vlink]() |
   * [괄호](https://www.acmicpc.net/problem/9012)
@@ -154,13 +155,22 @@
 
 
 ## 참고자료
-캡쳐 앱(oCam) : http://ohsoft.net/kor/ocam/intro.php?cate=1002
 
-코딩 음악 : https://youtu.be/0r6C3z3TEKw?list=RDQMvszCsCcYi5c
+- 캡쳐 앱(oCam) : http://ohsoft.net/kor/ocam/intro.php?cate=1002
 
-코딩 타이핑 : http://www.speedcoder.net/lessons/#
+- 코딩 음악 : https://youtu.be/0r6C3z3TEKw?list=RDQMvszCsCcYi5c
 
-데이터 : https://www.kaggle.com
+- 코딩 타이핑 : http://www.speedcoder.net/lessons/#
 
+- 데이터 : https://www.kaggle.com
 
+- 마크다운(.md) 문법
+  - [Mastering Markdown Github Guide](https://guides.github.com/features/mastering-markdown/)
+  - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
+  - [Online Markdown Editor](https://dillinger.io/)
+
+- 컬러링
+  - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+  - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+  - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0` 
 
