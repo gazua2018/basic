@@ -1,2 +1,0 @@
-# basic
-practice basic problems
