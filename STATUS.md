@@ -84,15 +84,15 @@
   * [1,2,3더하기](https://www.acmicpc.net/problem/9095)
     - [X] |륜| [slink](https://gist.github.com/brianrobo/d4ca256e8c91e9680873b9c13fb444de) | [vlink](https://youtu.be/QVRS2xjPBwI) |
     - [ ] |윤| [slink]() | [vlink]() |
-    - [ ] |수| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/6ee3585c0edbaa99d3b49a8a8639bf16) | [vlink]() |
   * [붕어빵 판매하기](https://www.acmicpc.net/problem/11052)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
-    - [ ] |수| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/02a07453b133422ee4176683e75a69a8) | [vlink]() |
   * [이친수](https://www.acmicpc.net/problem/2193)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
-    - [ ] |수| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
   * [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
