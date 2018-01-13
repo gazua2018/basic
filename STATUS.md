@@ -95,20 +95,20 @@
     - [X] |수| [slink](https://gist.github.com/yangsoochoi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
   * [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
     - [ ] |륜| [slink]() | [vlink]() |
-    - [ ] |윤| [slink]() | [vlink]() |
-    - [X] |수| [slink](https://gist.github.com/yangsoochoi/d17ba77e037a2e99e8cbb9645348fe63) | [vlink]() |
+    - [ ] |윤| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/d17ba77e037a2e99e8cbb9645348fe63) | [vlink]() |
   * [오르막수](https://www.acmicpc.net/problem/11057)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
     - [X] |수| [slink](https://gist.github.com/yangsoochoi/8aa513a886bb85f4c64679b0ae48714e) | [vlink]() |
   * [스티커](https://www.acmicpc.net/problem/9465)
     - [ ] |륜| [slink]() | [vlink]() |
-    - [ ] |윤| [slink]() | [vlink]() |
-    - [X] |수| [slink](https://gist.github.com/yangsoochoi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
+    - [ ] |윤| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
   * [포도주 시식](https://www.acmicpc.net/problem/2156)
     - [ ] |륜| [slink]() | [vlink]() |
-    - [ ] |윤| [slink]() | [vlink]() |
-    - [X] |수| [slink](https://gist.github.com/yangsoochoi/7152d22478a7519106c29c8cf031bf49) | [vlink]() |
+    - [ ] |윤| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/7152d22478a7519106c29c8cf031bf49) | [vlink]() |
   * [가장 긴 증가하는 부분 수열(LIS)](https://www.acmicpc.net/problem/11053)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
