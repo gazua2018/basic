@@ -90,7 +90,7 @@
     - [ ] |윤| [slink]() | [vlink]() |
     - [X] |수| [slink](https://gist.github.com/yangsoochoi/02a07453b133422ee4176683e75a69a8) | [vlink]() |
   * [이친수](https://www.acmicpc.net/problem/2193)
-    - [ ] |륜| [slink]() | [vlink]() |
+    - [X] |륜| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | ~~[vlink]()~~ |
     - [ ] |윤| [slink]() | [vlink]() |
     - [X] |수| [slink](https://gist.github.com/yangsoochoi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
   * [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
