@@ -120,11 +120,11 @@
   * [연속합](https://www.acmicpc.net/problem/1912)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
-    - [ ] |수| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/f4a4e94b3dce73bc6d8b83aba3fdf5f9) | [vlink]() |
   * [계단 오르기](https://www.acmicpc.net/problem/2579)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
-    - [ ] |수| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/4834f8688ee206af6bb13e605dc5731b) | [vlink]() |
   * [제곱수의 합](https://www.acmicpc.net/problem/1699)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
@@ -136,7 +136,7 @@
   * [파도반 수열](https://www.acmicpc.net/problem/9461)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
-    - [ ] |수| [slink]() | [vlink]() |
+    - [X] |수| [slink](https://gist.github.com/yangsoochoi/f3e9f4669ff5aef583c5e171581622fc) | [vlink]() |
   * [합분해](https://www.acmicpc.net/problem/2225)
     - [ ] |륜| [slink]() | [vlink]() |
     - [ ] |윤| [slink]() | [vlink]() |
