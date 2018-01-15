@@ -98,7 +98,7 @@
     - [ ] |대윤| [slink]() | [vlink]() |
     - [X] |양수| [slink](https://gist.github.com/양수choi/d17ba77e037a2e99e8cbb9645348fe63) | [vlink]() |
   * [오르막수](https://www.acmicpc.net/problem/11057)
-    - [ ] |하륜| [slink]() | [vlink]() |
+    - [X] |하륜| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | [vlink]() |
     - [ ] |대윤| [slink]() | [vlink]() |
     - [X] |양수| [slink](https://gist.github.com/양수choi/8aa513a886bb85f4c64679b0ae48714e) | [vlink]() |
   * [스티커](https://www.acmicpc.net/problem/9465)
