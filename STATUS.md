@@ -145,11 +145,8 @@
     - [ ] |하륜| [slink]() | [vlink]() |
     - [ ] |대윤| [slink]() | [vlink]() |
     - [ ] |양수| [slink]() | [vlink]() |
-  * []()
-    - [ ] |하륜| [slink]() | [vlink]() |
-    - [ ] |대윤| [slink]() | [vlink]() |
-    - [ ] |양수| [slink]() | [vlink]() |
 
+    
 ## Math1
 
 ## Sort
