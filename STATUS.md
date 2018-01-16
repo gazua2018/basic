@@ -113,7 +113,7 @@
   - [X] |양수| [slink](https://gist.github.com/양수choi/f3e9f4669ff5aef583c5e171581622fc) | [vlink]() |
 * [합분해](https://www.acmicpc.net/problem/2225)
   - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |양수| [slink](https://gist.github.com/yangsoochoi/74608e9c06322784db844194570d2168) | [vlink]() |
 * [암호코드](https://www.acmicpc.net/problem/2011)
   - [ ] |하륜| [slink]() | [vlink]() |
   - [ ] |양수| [slink]() | [vlink]() |
