@@ -85,14 +85,14 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | [vlink]() |
   - [X] |양수| [slink](https://gist.github.com/양수choi/8aa513a886bb85f4c64679b0ae48714e) | [vlink]() |
 * [스티커](https://www.acmicpc.net/problem/9465)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [ ] |하륜| [slink]() | [vlink]() | :interrobang: <-- try later
   - [X] |양수| [slink](https://gist.github.com/양수choi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
 * [포두주 시식](https://www.acmicpc.net/problem/2156)
   - [ ] |하륜| [slink]() | [vlink]() |
   - [X] |양수| [slink](https://gist.github.com/양수choi/7152d22478a7519106c29c8cf031bf49) | [vlink]() |
 * [가장 긴 증가하는 부분 수열(LIS)](https://www.acmicpc.net/problem/11053)
   - [ ] |하륜| [slink]() | [vlink]() |
-  - [X] |양수| [slink](https://gist.github.com/yangsoochoi/21d2cbd051c8a7a0bb4de981752f5ef3) | [vlink]() |
+  - [X] |양수| [slink](https://gist.github.com/yangsoochoi/21d2cbd051c8a7a0bb4de981752f5ef3) | [vlink]() |
 * [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
   - [ ] |하륜| [slink]() | [vlink]() |
   - [ ] |양수| [slink]() | [vlink]() |
@@ -113,7 +113,7 @@
   - [X] |양수| [slink](https://gist.github.com/양수choi/f3e9f4669ff5aef583c5e171581622fc) | [vlink]() |
 * [합분해](https://www.acmicpc.net/problem/2225)
   - [ ] |하륜| [slink]() | [vlink]() |
-  - [X] |양수| [slink](https://gist.github.com/yangsoochoi/74608e9c06322784db844194570d2168) | [vlink]() |
+  - [X] |양수| [slink](https://gist.github.com/yangsoochoi/74608e9c06322784db844194570d2168) | [vlink]() |
 * [암호코드](https://www.acmicpc.net/problem/2011)
   - [ ] |하륜| [slink]() | [vlink]() |
   - [ ] |양수| [slink]() | [vlink]() |
