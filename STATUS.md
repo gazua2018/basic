@@ -76,16 +76,16 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/9d78c557c32afcb3f3a5bb1597cc0e6e) | [vlink](https://youtu.be/Y93acQhqHp0) |
   - [X] |양수| [slink](https://gist.github.com/양수choi/02a07453b133422ee4176683e75a69a8) | [vlink]() |
 * [이친수](https://www.acmicpc.net/problem/2193)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | ~~[vlink]()~~ |
   - [X] |양수| [slink](https://gist.github.com/양수choi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
 * [쉬운 계단 수 ](https://www.acmicpc.net/problem/10844)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/d733074f121ba39c404a0e52681d5da5) | [vlink](https://youtu.be/7r6sb9PhyOo) |
   - [X] |양수| [slink](https://gist.github.com/양수choi/d17ba77e037a2e99e8cbb9645348fe63) | [vlink]() |
 * [오르막수](https://www.acmicpc.net/problem/11057)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | ~~[vlink]()~~ |
   - [X] |양수| [slink](https://gist.github.com/양수choi/8aa513a886bb85f4c64679b0ae48714e) | [vlink]() |
 * [스티커](https://www.acmicpc.net/problem/9465)
-  - [ ] |하륜| [slink]() | [vlink]() | :interrobang: <-- try later
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/30f0476a504bdd782c6fdb927409997f) | ~~[vlink]()~~ |
   - [X] |양수| [slink](https://gist.github.com/양수choi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
 * [포두주 시식](https://www.acmicpc.net/problem/2156)
   - [ ] |하륜| [slink]() | [vlink]() |
