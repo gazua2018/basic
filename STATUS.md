@@ -88,7 +88,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/30f0476a504bdd782c6fdb927409997f) | ~~[vlink]()~~ |
   - [X] |양수| [slink](https://gist.github.com/양수choi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
 * [포두주 시식](https://www.acmicpc.net/problem/2156)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/a2c969c7a40b1196622858f69b8b3c14) | ~~[vlink]()~~ | :question: failed at 90%
   - [X] |양수| [slink](https://gist.github.com/양수choi/7152d22478a7519106c29c8cf031bf49) | [vlink]() |
 * [가장 긴 증가하는 부분 수열(LIS)](https://www.acmicpc.net/problem/11053)
   - [ ] |하륜| [slink]() | [vlink]() |
