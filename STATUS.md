@@ -123,7 +123,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/6aa16bf4d45cda7ef942d0a11b60868a) | ~~[vlink]()~~ |
   - [ ] |양수| [slink]() | [vlink]() |
 * [최대공약수_최소공배수](https://www.acmicpc.net/problem/2609)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/200e210e63434c68b2dbe188babbc87e) | ~~[vlink]()~~ |
   - [ ] |양수| [slink]() | [vlink]() |
 * [최소공배수](https://www.acmicpc.net/problem/1934)
   - [ ] |하륜| [slink]() | [vlink]() |
