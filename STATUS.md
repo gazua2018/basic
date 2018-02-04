@@ -129,7 +129,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/eafd4ba2c0c3cd37fd1591af25fe15fc) | ~~[vlink]()~~ |
   - [ ] |양수| [slink]() | [vlink]() |
 * [GCD합](https://www.acmicpc.net/problem/9613)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/0fe38f21d34d4f596ec2a608c3793ca2) | ~~[vlink]()~~ |
   - [ ] |양수| [slink]() | [vlink]() |
 * [진법변환2](https://www.acmicpc.net/problem/11005)
   - [ ] |하륜| [slink]() | [vlink]() |
