@@ -132,10 +132,10 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/0fe38f21d34d4f596ec2a608c3793ca2) | ~~[vlink]()~~ |
   - [ ] |양수| [slink]() | [vlink]() |
 * [진법변환2](https://www.acmicpc.net/problem/11005)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ecbe6c6808ca09eb307f98e8f556f353) | ~~[vlink]()~~ |
   - [ ] |양수| [slink]() | [vlink]() |
 * [진법변환](https://www.acmicpc.net/problem/2745)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ecbe6c6808ca09eb307f98e8f556f353) | ~~[vlink]()~~ |
+  - [] |하륜| [slink]() | ~~[vlink]()~~ |
   - [ ] |양수| [slink]() | [vlink]() |
 * [2진수8진수](https://www.acmicpc.net/problem/1373)
   - [ ] |하륜| [slink]() | [vlink]() |
