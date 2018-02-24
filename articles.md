@@ -7,14 +7,16 @@
 * Big O Notation
 ```
 (1 Eok = 1 sec)
-O(1)    : 
-O(lgN)  :
-O(N)    :  1 Eok
+
+        : The N which takes 1 sec
+O(1)    :                         ( Simple calculation e.g, a+b, operation for accessing the array )
+O(lgN)  :                         ( Continuously divide the N by its half)
+O(N)    :  1 Eok                  ( for loop)
 O(NlgN) : 500 Man
-O(N^2)  :  1 Man
-O(N^3)  : 500
-O(2^N)  :  20
-O(N!)   :  10
+O(N^2)  :  1 Man                  ( for loop : total 2 depth)
+O(N^3)  : 500                     ( for loop : total 3 depth)
+O(2^N)  :  20                     ( SubSet of N size set)
+O(N!)   :  10                     ( Permutation of size N)
 ```
 
 ## about DP
