@@ -1,6 +1,6 @@
 ## IO speed
-
 <https://www.acmicpc.net/board/view/9022>
+> ios_base::sync_with_stdio(false)
 
 
 ## about DP
