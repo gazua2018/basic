@@ -21,6 +21,7 @@
 * [A+B_1000](https://www.acmicpc.net/problem/1000)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/9d4426c647d449fb29f74f016b4cc85f) | [pylink](https://gist.github.com/brianrobo/fc43c5bc8819a6091ed06cd8da32967e)  
 * [A+B_2558](https://www.acmicpc.net/problem/2558)
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/e62579067fdc07b14ae0bb6d71bc8ac8) | [pylink](https://gist.github.com/brianrobo/3593fa3cf19b9c021778a55d1a4abb8f)
 * [A+B_10950](https://www.acmicpc.net/problem/10950)
 * [A+B_10951](https://www.acmicpc.net/problem/10951)
 * [A+B_10952](https://www.acmicpc.net/problem/10952)
