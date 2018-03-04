@@ -37,6 +37,7 @@
 * [그대로출력하기](https://www.acmicpc.net/problem/11718)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/38c57f4e2f04d8f59f663e4c4bdc4dd8)
 * [그대로출력하기2](https://www.acmicpc.net/problem/11719)
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/38c57f4e2f04d8f59f663e4c4bdc4dd8)
 * [숫자의합](https://www.acmicpc.net/problem/11720)
 * [WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/01_algo_and_io_WIK.md)
 
