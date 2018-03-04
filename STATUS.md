@@ -39,7 +39,7 @@
   - [X] |HR| [slink](https://gist.github.com/brianrobo/38c57f4e2f04d8f59f663e4c4bdc4dd8)
 * [숫자의합](https://www.acmicpc.net/problem/11720)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/e7c0efc4d11aa5b73e2322652b29c306)
-* [WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/01_algo_and_io_WIK.md)
+* [#WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/01_algo_and_io_WIK.md)
 
 
 
