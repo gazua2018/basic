@@ -33,12 +33,12 @@
 * [A+B_11021](https://www.acmicpc.net/problem/11021)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/2eba32d68069c4c28d0727448478cf99)
 * [~~A+B_11022~~](https://www.acmicpc.net/problem/11022)
-* [한줄입력받기]()
 * [그대로출력하기](https://www.acmicpc.net/problem/11718)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/38c57f4e2f04d8f59f663e4c4bdc4dd8)
 * [그대로출력하기2](https://www.acmicpc.net/problem/11719)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/38c57f4e2f04d8f59f663e4c4bdc4dd8)
 * [숫자의합](https://www.acmicpc.net/problem/11720)
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/e7c0efc4d11aa5b73e2322652b29c306)
 * [WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/01_algo_and_io_WIK.md)
 
 
