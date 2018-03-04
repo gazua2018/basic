@@ -36,8 +36,7 @@
 
 
 
-* [A+B-3](https://www.acmicpc.net/problem/10950)
-* [A+B-4](https://www.acmicpc.net/problem/10951)
+
 * [한줄입력받기]()
 * [그대로출력하기]()
 * [그대로출력하기2]()
