@@ -29,6 +29,7 @@
 * [A+B_10952](https://www.acmicpc.net/problem/10952)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/2a75688600f595b2e031609ad0a4e27e)
 * [A+B_10953](https://www.acmicpc.net/problem/10953)
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/b3a34134699813284e0346e1061baa58)
 * [A+B_11021](https://www.acmicpc.net/problem/11021)
 * [A+B_11022](https://www.acmicpc.net/problem/11022)
 
