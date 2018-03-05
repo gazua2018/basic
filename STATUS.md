@@ -39,9 +39,7 @@
   - [X] |HR| [slink](https://gist.github.com/brianrobo/38c57f4e2f04d8f59f663e4c4bdc4dd8)
 * [숫자의합](https://www.acmicpc.net/problem/11720)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/e7c0efc4d11aa5b73e2322652b29c306)
-* [#WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/01_algo_and_io_WIK.md)
-
-
+* [#IO_WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/01_algo_and_io_WIK.md)
 
 ## DS1_Stack
 * [스택](https://www.acmicpc.net/problem/10828)
@@ -56,6 +54,7 @@
 * [에디터](https://www.acmicpc.net/problem/1406)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/0ab4fd9e38c2296fb0599b0ad3b09135) | [vlink](https://youtu.be/n6yoi7sauC8?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
   - [ ] |양수| [slink]() | [vlink]() |
+* [#DS1_WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/02_ds1_WIK.md) 
 
 ## DS1_Queue
 * [큐](https://www.acmicpc.net/problem/10845)
