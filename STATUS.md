@@ -43,7 +43,7 @@
 
 ## DS1_Stack
 * [스택](https://www.acmicpc.net/problem/10828)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | :two:
   - [ ] |양수| [slink]() | [vlink]() |
 * [괄호](https://www.acmicpc.net/problem/9012)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/e7a399202b40437cc965aeb1f2c0d377) | [vlink](https://youtu.be/eCj4-68OPFc?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
