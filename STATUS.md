@@ -11,7 +11,7 @@
 * [DS1(Queue)](#ds1_queue)
 * [DS1(Dequeue)](#ds1_deque)
 * [DS1(String)](#ds1_string))
-* [DP1](#dp1) :point_left: 하륜, 양수
+* [DP1](#dp1) :point_left:
 * [Math1](#math1)
 * [Sort](#sort)
 * [Graph1](#graph1)
