@@ -49,7 +49,7 @@
 * [쇠막대기](https://www.acmicpc.net/problem/10799)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/acc00fddfb6d83c73ebbc882c4d1c4c5) | [vlink](https://youtu.be/RywwFpbpbMU?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
 * [에디터](https://www.acmicpc.net/problem/1406)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/0ab4fd9e38c2296fb0599b0ad3b09135) | [vlink](https://youtu.be/n6yoi7sauC8?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/0ab4fd9e38c2296fb0599b0ad3b09135) | [vlink](https://youtu.be/n6yoi7sauC8?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
 * [#DS1_WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/02_ds1_WIK.md) 
 
 ## DS1_Queue
