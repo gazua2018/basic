@@ -203,6 +203,7 @@
 - 코딩 음악 : https://youtu.be/0r6C3z3TEKw?list=RDQMvszCsCcYi5c
 
 - 코딩 타이핑 : http://www.speedcoder.net/lessons/#
+               http://www.typing-lessons.org/lesson_1.html
 
 - 마크다운(.md) 문법
   - [Mastering Markdown Github Guide](https://guides.github.com/features/mastering-markdown/)
