@@ -54,8 +54,7 @@
 
 ## DS1_Queue
 * [큐](https://www.acmicpc.net/problem/10845)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/8188d49d9d326051ef6870d5a56ba3eb) | [vlink](https://youtu.be/oFUfF535XqU) |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/8188d49d9d326051ef6870d5a56ba3eb) | [vlink](https://youtu.be/oFUfF535XqU) | [#2]()
 * [조세퍼스](https://www.acmicpc.net/problem/1158)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/0d31cd6276b746ceea26b49616f7d131) | [vlink](https://youtu.be/DVKX8kBKXgw) |
   - [ ] |양수| [slink]() | [vlink]() |
