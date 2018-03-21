@@ -74,7 +74,7 @@
 
 ## DP1
 * [1로 만들기](https://www.acmicpc.net/problem/1463)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ea9acacdb9b143af1e26ec2f79e1d7a5) | [vlink](https://youtu.be/1cjux5lJgOg) |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ea9acacdb9b143af1e26ec2f79e1d7a5) | [vlink](https://youtu.be/1cjux5lJgOg) | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/58f2168c3b79de04eed476222efd42f9) | [vlink]() |
 * [2xn 타일링](https://www.acmicpc.net/problem/11726)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/e5fc8dd3929fff41a7a7b2b64440f662) | [vlink](https://youtu.be/GzPLkZN2B6w) |
