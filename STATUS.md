@@ -77,7 +77,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/ea9acacdb9b143af1e26ec2f79e1d7a5) | [vlink](https://youtu.be/1cjux5lJgOg) | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/58f2168c3b79de04eed476222efd42f9) | [vlink]() |
 * [2xn 타일링](https://www.acmicpc.net/problem/11726)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/e5fc8dd3929fff41a7a7b2b64440f662) | [vlink](https://youtu.be/GzPLkZN2B6w) |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/e5fc8dd3929fff41a7a7b2b64440f662) | [vlink](https://youtu.be/GzPLkZN2B6w) | [#2]()
   - [X] |양수| [slink](https://github.com/양수choi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%81.cpp) | [vlink]() |
 * [2xn 타일링2](https://www.acmicpc.net/problem/11727)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/6758a3b0c8dff7f02604c1ddaddbc301) | [vlink](https://youtu.be/yBPGBFuWYbA) |
