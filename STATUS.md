@@ -86,7 +86,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/d4ca256e8c91e9680873b9c13fb444de) | [vlink](https://youtu.be/QVRS2xjPBwI) | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/6ee3585c0edbaa99d3b49a8a8639bf16) | [vlink]() |
 * [붕어빵 판매하기](https://www.acmicpc.net/problem/11052)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/9d78c557c32afcb3f3a5bb1597cc0e6e) | [vlink](https://youtu.be/Y93acQhqHp0) |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/9d78c557c32afcb3f3a5bb1597cc0e6e) | [vlink](https://youtu.be/Y93acQhqHp0) | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/02a07453b133422ee4176683e75a69a8) | [vlink]() |
 * [이친수](https://www.acmicpc.net/problem/2193)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | ~~[vlink]()~~ |
