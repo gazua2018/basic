@@ -92,7 +92,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | ~~[vlink]()~~ | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
 * [쉬운 계단 수 ](https://www.acmicpc.net/problem/10844)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/d733074f121ba39c404a0e52681d5da5) | [vlink](https://youtu.be/7r6sb9PhyOo) |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/d733074f121ba39c404a0e52681d5da5) | [vlink](https://youtu.be/7r6sb9PhyOo) | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/d17ba77e037a2e99e8cbb9645348fe63) | [vlink]() |
 * [오르막수](https://www.acmicpc.net/problem/11057)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | ~~[vlink]()~~ |
