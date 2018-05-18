@@ -98,7 +98,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | ~~[vlink]()~~ | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/8aa513a886bb85f4c64679b0ae48714e) | [vlink]() |
 * [스티커](https://www.acmicpc.net/problem/9465)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/30f0476a504bdd782c6fdb927409997f) | ~~[vlink]()~~ |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/30f0476a504bdd782c6fdb927409997f) | ~~[vlink]()~~ | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
 * [포두주 시식](https://www.acmicpc.net/problem/2156)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/a2c969c7a40b1196622858f69b8b3c14) | ~~[vlink]()~~ | :question: failed at 90%
