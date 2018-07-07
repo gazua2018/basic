@@ -104,7 +104,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/a2c969c7a40b1196622858f69b8b3c14) | ~~[vlink]()~~ | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/7152d22478a7519106c29c8cf031bf49) | [vlink]() |
 * [가장 긴 증가하는 부분 수열(LIS)](https://www.acmicpc.net/problem/11053)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/1e16580d0c7d7f19f4155302e9eb99a9) | [vlink]() | :sweat: takes much time
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/1e16580d0c7d7f19f4155302e9eb99a9) | [vlink]() | [#2]()
   - [X] |양수| [slink](https://gist.github.com/yangsoochoi/21d2cbd051c8a7a0bb4de981752f5ef3) | [vlink]() |
 * [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
   - [ ] |하륜| [slink]() | [vlink]() |
