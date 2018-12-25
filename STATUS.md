@@ -1,9 +1,9 @@
 # Basic
 
 ## 참석자
-* 하륜
-* 대윤
-* 양수
+* HR
+* DY
+* YS
 
 ## 항목(ToC)
 * [I/O](#io)
@@ -43,51 +43,51 @@
 
 ## DS1_Stack
 * [스택](https://www.acmicpc.net/problem/10828)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/7b927b1f36c70790a379663009fb7c2d) | [vlink](https://youtu.be/i2tsdmsPlBA?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
 * [괄호](https://www.acmicpc.net/problem/9012)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/e7a399202b40437cc965aeb1f2c0d377) | [vlink](https://youtu.be/eCj4-68OPFc?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/e7a399202b40437cc965aeb1f2c0d377) | [vlink](https://youtu.be/eCj4-68OPFc?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
 * [쇠막대기](https://www.acmicpc.net/problem/10799)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/acc00fddfb6d83c73ebbc882c4d1c4c5) | [vlink](https://youtu.be/RywwFpbpbMU?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/acc00fddfb6d83c73ebbc882c4d1c4c5) | [vlink](https://youtu.be/RywwFpbpbMU?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
 * [에디터](https://www.acmicpc.net/problem/1406)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/0ab4fd9e38c2296fb0599b0ad3b09135) | [vlink](https://youtu.be/n6yoi7sauC8?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/0ab4fd9e38c2296fb0599b0ad3b09135) | [vlink](https://youtu.be/n6yoi7sauC8?list=PLKXddkE_aFmvznhoDYQfpKJXV9B3WuUMr) | [#2]()
 * [#DS1_WIK](https://github.com/brianrobo/CheckAPS/blob/master/Basic/02_ds1_WIK.md) 
 
 ## DS1_Queue
 * [큐](https://www.acmicpc.net/problem/10845)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/8188d49d9d326051ef6870d5a56ba3eb) | [vlink](https://youtu.be/oFUfF535XqU) | [#2]()
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/8188d49d9d326051ef6870d5a56ba3eb) | [vlink](https://youtu.be/oFUfF535XqU) | [#2]()
 * [조세퍼스](https://www.acmicpc.net/problem/1158)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/0d31cd6276b746ceea26b49616f7d131) | [vlink](https://youtu.be/DVKX8kBKXgw) | [#2]()
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/0d31cd6276b746ceea26b49616f7d131) | [vlink](https://youtu.be/DVKX8kBKXgw) | [#2]()
 
 ## DS1_Deque
 * [덱](https://www.acmicpc.net/problem/10866)
-  - [ ] ~~|하륜| [slink]() | [vlink]() |~~
+  - [ ] ~~|HR| [slink]() | [vlink]() |~~
 
 ## DS1_String
 * ~~[알파벳 개수](https://www.acmicpc.net/problem/10808)~~  
 * ~~[알파벳 찾기](https://www.acmicpc.net/problem/10809)~~
 * ~~[문자열 분석](https://www.acmicpc.net/problem/10820)~~
 * [단어 길이 재기](https://www.acmicpc.net/problem/2743)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/9dc3f7f9db50ab773bdbbad28f0bb05d) | [vlink](https://youtu.be/YrCgKrtiUKE) |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/9dc3f7f9db50ab773bdbbad28f0bb05d) | [vlink](https://youtu.be/YrCgKrtiUKE) |
 * ~~[ROT13](https://www.acmicpc.net/problem/11655)~~
 * ~~[네수](https://www.acmicpc.net/problem/10824)~~
 * ~~[접미사 배열](https://www.acmicpc.net/problem/11656)~~
 
 ## DP1
 * [1로 만들기](https://www.acmicpc.net/problem/1463)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ea9acacdb9b143af1e26ec2f79e1d7a5) | [vlink](https://youtu.be/1cjux5lJgOg) | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/58f2168c3b79de04eed476222efd42f9) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/ea9acacdb9b143af1e26ec2f79e1d7a5) | [vlink](https://youtu.be/1cjux5lJgOg) | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/58f2168c3b79de04eed476222efd42f9) | [vlink]() |
 * [2xn 타일링](https://www.acmicpc.net/problem/11726)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/e5fc8dd3929fff41a7a7b2b64440f662) | [vlink](https://youtu.be/GzPLkZN2B6w) | [#2]()
-  - [X] |양수| [slink](https://github.com/양수choi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%81.cpp) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/e5fc8dd3929fff41a7a7b2b64440f662) | [vlink](https://youtu.be/GzPLkZN2B6w) | [#2]()
+  - [X] |YS| [slink](https://github.com/양수choi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%81.cpp) | [vlink]() |
 * [2xn 타일링2](https://www.acmicpc.net/problem/11727)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/6758a3b0c8dff7f02604c1ddaddbc301) | [vlink](https://youtu.be/yBPGBFuWYbA) | [#2]()
-  - [X] |양수| [slink](https://github.com/양수choi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%812.cpp) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/6758a3b0c8dff7f02604c1ddaddbc301) | [vlink](https://youtu.be/yBPGBFuWYbA) | [#2]()
+  - [X] |YS| [slink](https://github.com/양수choi/-/blob/master/2_n_%ED%83%80%EC%9D%BC%EB%A7%812.cpp) | [vlink]() |
 * [1,2,3더하기](https://www.acmicpc.net/problem/9095)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/d4ca256e8c91e9680873b9c13fb444de) | [vlink](https://youtu.be/QVRS2xjPBwI) | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/6ee3585c0edbaa99d3b49a8a8639bf16) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/d4ca256e8c91e9680873b9c13fb444de) | [vlink](https://youtu.be/QVRS2xjPBwI) | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/6ee3585c0edbaa99d3b49a8a8639bf16) | [vlink]() |
 * [붕어빵 판매하기](https://www.acmicpc.net/problem/11052)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/9d78c557c32afcb3f3a5bb1597cc0e6e) | [vlink](https://youtu.be/Y93acQhqHp0) | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/02a07453b133422ee4176683e75a69a8) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/9d78c557c32afcb3f3a5bb1597cc0e6e) | [vlink](https://youtu.be/Y93acQhqHp0) | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/02a07453b133422ee4176683e75a69a8) | [vlink]() |
 * [이친수](https://www.acmicpc.net/problem/2193)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | ~~[vlink]()~~ | [#2]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
