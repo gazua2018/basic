@@ -109,7 +109,7 @@
 * [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/85f1582a14dc8fdb60e3d8629d41009e) | [vlink]() | [#1]()  
 * [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/236003c0135df3f5a3a16201d7200966) | [vlink]() |
   - [ ] |양수| [slink]() | [vlink]() |
 * [연속합](https://www.acmicpc.net/problem/1912)
   - [ ] |하륜| [slink]() | [vlink]() |
