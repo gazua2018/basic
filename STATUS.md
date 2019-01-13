@@ -112,7 +112,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/236003c0135df3f5a3a16201d7200966) | [vlink]() | [#1]()
   - [ ] |양수| [slink]() | [vlink]() |
 * [연속합](https://www.acmicpc.net/problem/1912)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/9e9e371e9414b26619bb35edae4b0522) | [vlink]() | [#1]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/f4a4e94b3dce73bc6d8b83aba3fdf5f9) | [vlink]() |
 * [계단 오르기](https://www.acmicpc.net/problem/2579)
   - [ ] |하륜| [slink]() | [vlink]() |
