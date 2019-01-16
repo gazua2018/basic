@@ -88,105 +88,105 @@
   - [X] |HR| [slink](https://gist.github.com/brianrobo/9d78c557c32afcb3f3a5bb1597cc0e6e) | [vlink](https://youtu.be/Y93acQhqHp0) | [#2]()
   - [X] |YS| [slink](https://gist.github.com/양수choi/02a07453b133422ee4176683e75a69a8) | [vlink]() |
 * [이친수](https://www.acmicpc.net/problem/2193)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | ~~[vlink]()~~ | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/65632d71adf42d8581f898fb6e91c8ae) | ~~[vlink]()~~ | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/3f465e077d5f4a47af85b83e454de289) | [vlink]() |
 * [쉬운 계단 수 ](https://www.acmicpc.net/problem/10844)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/d733074f121ba39c404a0e52681d5da5) | [vlink](https://youtu.be/7r6sb9PhyOo) | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/d17ba77e037a2e99e8cbb9645348fe63) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/d733074f121ba39c404a0e52681d5da5) | [vlink](https://youtu.be/7r6sb9PhyOo) | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/d17ba77e037a2e99e8cbb9645348fe63) | [vlink]() |
 * [오르막수](https://www.acmicpc.net/problem/11057)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | ~~[vlink]()~~ | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/8aa513a886bb85f4c64679b0ae48714e) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/05f8ca1daeae17cd65c1ac5f8f8368cc) | ~~[vlink]()~~ | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/8aa513a886bb85f4c64679b0ae48714e) | [vlink]() |
 * [스티커](https://www.acmicpc.net/problem/9465)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/30f0476a504bdd782c6fdb927409997f) | ~~[vlink]()~~ | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/30f0476a504bdd782c6fdb927409997f) | ~~[vlink]()~~ | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/4b0a3923c3e8b805837189bf9ca5171d) | [vlink]() |
 * [포두주 시식](https://www.acmicpc.net/problem/2156)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/a2c969c7a40b1196622858f69b8b3c14) | ~~[vlink]()~~ | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/7152d22478a7519106c29c8cf031bf49) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/a2c969c7a40b1196622858f69b8b3c14) | ~~[vlink]()~~ | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/7152d22478a7519106c29c8cf031bf49) | [vlink]() |
 * [가장 긴 증가하는 부분 수열(LIS)](https://www.acmicpc.net/problem/11053)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/1e16580d0c7d7f19f4155302e9eb99a9) | [vlink]() | [#2]()
-  - [X] |양수| [slink](https://gist.github.com/yangsoochoi/21d2cbd051c8a7a0bb4de981752f5ef3) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/1e16580d0c7d7f19f4155302e9eb99a9) | [vlink]() | [#2]()
+  - [X] |YS| [slink](https://gist.github.com/yangsoochoi/21d2cbd051c8a7a0bb4de981752f5ef3) | [vlink]() |
 * [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/85f1582a14dc8fdb60e3d8629d41009e) | [vlink]() | [#1]()
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/85f1582a14dc8fdb60e3d8629d41009e) | [vlink]() | [#1]()
 * [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/236003c0135df3f5a3a16201d7200966) | [vlink]() | [#1]()
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/236003c0135df3f5a3a16201d7200966) | [vlink]() | [#1]()
+  - [ ] |YS| [slink]() | [vlink]() |
 * [연속합](https://www.acmicpc.net/problem/1912)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/9e9e371e9414b26619bb35edae4b0522) | [vlink]() | [#1]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/f4a4e94b3dce73bc6d8b83aba3fdf5f9) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/9e9e371e9414b26619bb35edae4b0522) | [vlink]() | [#1]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/f4a4e94b3dce73bc6d8b83aba3fdf5f9) | [vlink]() |
 * [계단 오르기](https://www.acmicpc.net/problem/2579)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ae4b2258b14986522ae14a5c06de16e0) | [vlink]() | [#1]()
-  - [X] |양수| [slink](https://gist.github.com/양수choi/4834f8688ee206af6bb13e605dc5731b) | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/ae4b2258b14986522ae14a5c06de16e0) | [vlink]() | [#1]()
+  - [X] |YS| [slink](https://gist.github.com/양수choi/4834f8688ee206af6bb13e605dc5731b) | [vlink]() |
 * [제곱수의 합](https://www.acmicpc.net/problem/1699)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [타일 채우기](https://www.acmicpc.net/problem/2133)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [파도반 수열 ](https://www.acmicpc.net/problem/9461)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [X] |양수| [slink](https://gist.github.com/양수choi/f3e9f4669ff5aef583c5e171581622fc) | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [X] |YS| [slink](https://gist.github.com/양수choi/f3e9f4669ff5aef583c5e171581622fc) | [vlink]() |
 * [합분해](https://www.acmicpc.net/problem/2225)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [X] |양수| [slink](https://gist.github.com/yangsoochoi/74608e9c06322784db844194570d2168) | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [X] |YS| [slink](https://gist.github.com/yangsoochoi/74608e9c06322784db844194570d2168) | [vlink]() |
 * [암호코드](https://www.acmicpc.net/problem/2011)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
     
 ## Math1
 * [나머지](https://www.acmicpc.net/problem/10430)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/6aa16bf4d45cda7ef942d0a11b60868a) | ~~[vlink]()~~ |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/6aa16bf4d45cda7ef942d0a11b60868a) | ~~[vlink]()~~ |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [최대공약수_최소공배수](https://www.acmicpc.net/problem/2609)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/200e210e63434c68b2dbe188babbc87e) | ~~[vlink]()~~ |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/200e210e63434c68b2dbe188babbc87e) | ~~[vlink]()~~ |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [최소공배수](https://www.acmicpc.net/problem/1934)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/eafd4ba2c0c3cd37fd1591af25fe15fc) | ~~[vlink]()~~ |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/eafd4ba2c0c3cd37fd1591af25fe15fc) | ~~[vlink]()~~ |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [GCD합](https://www.acmicpc.net/problem/9613)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/0fe38f21d34d4f596ec2a608c3793ca2) | ~~[vlink]()~~ |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/0fe38f21d34d4f596ec2a608c3793ca2) | ~~[vlink]()~~ |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [진법변환2](https://www.acmicpc.net/problem/11005)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ecbe6c6808ca09eb307f98e8f556f353) | ~~[vlink]()~~ |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/ecbe6c6808ca09eb307f98e8f556f353) | ~~[vlink]()~~ |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [진법변환](https://www.acmicpc.net/problem/2745)
-  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ff19a3b1ac050cf914ee053d622a0e1b) | ~~[vlink]()~~ |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/ff19a3b1ac050cf914ee053d622a0e1b) | ~~[vlink]()~~ |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [2진수8진수](https://www.acmicpc.net/problem/1373)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [8진수2진수](https://www.acmicpc.net/problem/9613)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [-2진수](https://www.acmicpc.net/problem/9613)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [진법변환](https://www.acmicpc.net/problem/11576)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [소수찾기](https://www.acmicpc.net/problem/1978)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [소수구하기](https://www.acmicpc.net/problem/1929)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [골드바흐의 추측](https://www.acmicpc.net/problem/6588)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [소인수분해](https://www.acmicpc.net/problem/11653)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [팩토리얼](https://www.acmicpc.net/problem/10872)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [팩토리얼0의개수](https://www.acmicpc.net/problem/1676)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [조합0의개수](https://www.acmicpc.net/problem/2004)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
 * [GCD합](https://www.acmicpc.net/problem/9613)
-  - [ ] |하륜| [slink]() | [vlink]() |
-  - [ ] |양수| [slink]() | [vlink]() |
+  - [ ] |HR| [slink]() | [vlink]() |
+  - [ ] |YS| [slink]() | [vlink]() |
     
 ## Sort
 
