@@ -115,7 +115,7 @@
   - [X] |하륜| [slink](https://gist.github.com/brianrobo/9e9e371e9414b26619bb35edae4b0522) | [vlink]() | [#1]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/f4a4e94b3dce73bc6d8b83aba3fdf5f9) | [vlink]() |
 * [계단 오르기](https://www.acmicpc.net/problem/2579)
-  - [ ] |하륜| [slink]() | [vlink]() |
+  - [X] |하륜| [slink](https://gist.github.com/brianrobo/ae4b2258b14986522ae14a5c06de16e0) | [vlink]() | [#1]()
   - [X] |양수| [slink](https://gist.github.com/양수choi/4834f8688ee206af6bb13e605dc5731b) | [vlink]() |
 * [제곱수의 합](https://www.acmicpc.net/problem/1699)
   - [ ] |하륜| [slink]() | [vlink]() |
