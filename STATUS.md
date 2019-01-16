@@ -1,11 +1,10 @@
 # Basic
 
-## 참석자
+## Participant
 * HR
-* DY
 * YS
 
-## 항목(ToC)
+## ToC
 * [I/O](#io)
 * [DS1(Stack)](#ds1_stack)
 * [DS1(Queue)](#ds1_queue)
@@ -196,23 +195,23 @@
 ## Tree1
 
 
-## 참고자료
+## References
 
-- 캡쳐 앱(oCam) : http://ohsoft.net/kor/ocam/intro.php?cate=1002
+- Capture Util(oCam) : http://ohsoft.net/kor/ocam/intro.php?cate=1002
 
-- 코딩 음악 : https://youtu.be/0r6C3z3TEKw?list=RDQMvszCsCcYi5c
+- Coding Music : https://youtu.be/0r6C3z3TEKw?list=RDQMvszCsCcYi5c
 
-- 코딩 타이핑 : http://www.speedcoder.net/lessons/#
-               http://www.typing-lessons.org/lesson_1.html
+- Typing Practice : http://www.speedcoder.net/lessons/#
+                    http://www.typing-lessons.org/lesson_1.html
 
-- 마크다운(.md) 문법
+- Markdown(.md) Grammar
   - [Mastering Markdown Github Guide](https://guides.github.com/features/mastering-markdown/)
   - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
   - [Online Markdown Editor](https://dillinger.io/)
 
-- 컬러링
+- Coloring
   - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
   - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
   - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
   
-- 데이터 : https://www.kaggle.com
+- Data : https://www.kaggle.com
