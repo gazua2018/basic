@@ -117,7 +117,7 @@
   - [X] |HR| [slink](https://gist.github.com/brianrobo/ae4b2258b14986522ae14a5c06de16e0) | [vlink]() | [#1]()
   - [X] |YS| [slink](https://gist.github.com/양수choi/4834f8688ee206af6bb13e605dc5731b) | [vlink]() |
 * [제곱수의 합](https://www.acmicpc.net/problem/1699)
-  - [ ] |HR| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/81a8184e7502f6e73dc38277492673d7) | [vlink]() | [#1]()
   - [ ] |YS| [slink]() | [vlink]() |
 * [타일 채우기](https://www.acmicpc.net/problem/2133)
   - [ ] |HR| [slink]() | [vlink]() |
