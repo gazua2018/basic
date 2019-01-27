@@ -120,7 +120,7 @@
   - [X] |HR| [slink](https://gist.github.com/brianrobo/81a8184e7502f6e73dc38277492673d7) | [vlink]() | [#1]()
   - [ ] |YS| [slink]() | [vlink]() |
 * [타일 채우기](https://www.acmicpc.net/problem/2133)
-  - [ ] |HR| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/b8c83e2013fabe1a8ab17e2979d45b46) | [vlink]() | [#1]()
   - [ ] |YS| [slink]() | [vlink]() |
 * [파도반 수열 ](https://www.acmicpc.net/problem/9461)
   - [ ] |HR| [slink]() | [vlink]() |
