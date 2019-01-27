@@ -123,7 +123,7 @@
   - [X] |HR| [slink](https://gist.github.com/brianrobo/b8c83e2013fabe1a8ab17e2979d45b46) | [vlink]() | [#1]()
   - [ ] |YS| [slink]() | [vlink]() |
 * [파도반 수열 ](https://www.acmicpc.net/problem/9461)
-  - [ ] |HR| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/53013d8c1d4b40dea9c7002acf7083c8) | [vlink]() | [#1]()
   - [X] |YS| [slink](https://gist.github.com/양수choi/f3e9f4669ff5aef583c5e171581622fc) | [vlink]() |
 * [합분해](https://www.acmicpc.net/problem/2225)
   - [ ] |HR| [slink]() | [vlink]() |
