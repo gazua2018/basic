@@ -126,7 +126,7 @@
   - [X] |HR| [slink](https://gist.github.com/brianrobo/53013d8c1d4b40dea9c7002acf7083c8) | [vlink]() | [#1]()
   - [X] |YS| [slink](https://gist.github.com/양수choi/f3e9f4669ff5aef583c5e171581622fc) | [vlink]() |
 * [합분해](https://www.acmicpc.net/problem/2225)
-  - [ ] |HR| [slink]() | [vlink]() |
+  - [X] |HR| [slink](https://gist.github.com/brianrobo/766d222c7c3d284a11e25bac52ac9db1) | [vlink]() | [#1]()
   - [X] |YS| [slink](https://gist.github.com/yangsoochoi/74608e9c06322784db844194570d2168) | [vlink]() |
 * [암호코드](https://www.acmicpc.net/problem/2011)
   - [ ] |HR| [slink]() | [vlink]() |
