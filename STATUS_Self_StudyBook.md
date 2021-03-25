@@ -18,7 +18,7 @@
 
 ## ARRAY
 * [1.1_Gravity]()
-  - [] |HR| [slink](<script src="https://gist.github.com/brianrobo/421983ed8bb99317e66154a337145fb0.js"></script>)
+  - [] |HR| [slink](https://gist.github.com/brianrobo/421983ed8bb99317e66154a337145fb0)  
 * [A+B_2558](https://www.acmicpc.net/problem/2558)
   - [X] |HR| [slink](https://gist.github.com/brianrobo/e62579067fdc07b14ae0bb6d71bc8ac8) | [pylink](https://gist.github.com/brianrobo/3593fa3cf19b9c021778a55d1a4abb8f)
 * [A+B_10950](https://www.acmicpc.net/problem/10950)
